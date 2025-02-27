@@ -1,9 +1,7 @@
-streamlit 
+streamlit
 requests
 beautifulsoup4
-google-generativeai 
-python-dotenv 
-openpyxl 
-reportlab 
-pytesseract 
-pillow
+python-dotenv
+google-generativeai
+openpyxl
+reportlab
