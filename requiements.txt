@@ -1,5 +1,6 @@
 streamlit 
-requests 
+requests
+bs4
 beautifulsoup
 google-generativeai 
 python-dotenv 
